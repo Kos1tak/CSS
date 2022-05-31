@@ -1,0 +1,25 @@
+html
+{
+background-color: yellow;
+}
+
+
+
+p#pogrubienie_1
+{
+	color: rgb(70%, 50%, 120%);
+	font-size: 2cm;
+}
+
+p#pochylona_1
+{
+	color: #FF0000;
+	font-size: 17px;
+}
+
+p#podkreslony_1
+{
+	color: rgb(55%, 73%, 100%);
+	font-size: 15cl;
+}
+<!-- Kometarz -->
